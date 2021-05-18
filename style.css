@@ -44,7 +44,7 @@ main {
     font-weight: 900;
     background-image: url(./images/image-lion-background.png);
     background-size: unset;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
 }
 main p{
     font-family:'Roboto Slab',serif;
