@@ -258,7 +258,8 @@ footer p{
 
 .dropdown .navbutton:hover{
     background-color: white;
+    border-radius: 10px;
 }
 .dropdown .navbutton{
-    padding:-10px;
+    padding:-20px;
 }
