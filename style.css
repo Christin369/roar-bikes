@@ -29,7 +29,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: initial;
-    margin-top: 50px;
+    margin-top: 30px;
     padding-bottom:100px;
     border-bottom: 3px solid white;
 }
@@ -244,7 +244,7 @@ footer p{
 .navbutton{
     display: inline-block;
     position: relative;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 .dropdown{
     display: none;
@@ -253,11 +253,9 @@ footer p{
     margin-top: 20px;
 }
 .navbutton:hover .dropdown{
-    display: block;
-    transition-delay: .2s;
+    display: block;;
 }
 
 .dropdown .navbutton:hover{
     background-color: white;
-    transition-duration: .5s;
 }
