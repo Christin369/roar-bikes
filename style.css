@@ -254,8 +254,10 @@ footer p{
 }
 .navbutton:hover .dropdown{
     display: block;
+    transition-delay: .2s;
 }
 
 .dropdown .navbutton:hover{
     background-color: white;
+    transition-duration: .5s;
 }
